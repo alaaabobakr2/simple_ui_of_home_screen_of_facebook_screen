@@ -63,20 +63,7 @@ class LogIn extends StatelessWidget {
               ),
             ),
           ),
-          const SizedBox(
-            height: 170,
-          ),
-          const Text(
-            "Sign Up for Facebook",
-            style: TextStyle(color: Colors.white, fontSize: 20),
-          ),
-          const SizedBox(
-            height: 30,
-          ),
-          const Text(
-            "Forget Password?",
-            style: TextStyle(color: Colors.white, fontSize: 20),
-          ),
+         
         ],
       ),
     );
