@@ -1,5 +1,4 @@
 import 'package:facebook/post.dart';
-import 'package:facebook/story.dart';
 import 'package:flutter/material.dart';
 
 class HomePage extends StatefulWidget {
@@ -26,15 +25,15 @@ class _HomePageState extends State<HomePage> {
             padding: EdgeInsets.symmetric(vertical: 10, horizontal: 6),
             child: Row(
               children: [
-                Story(),
-                SizedBox(width: 12),
-                Story(),
-                SizedBox(width: 12),
-                Story(),
-                SizedBox(width: 12),
-                Story(),
-                SizedBox(width: 12),
-                Story(),
+                // Story(),
+                // SizedBox(width: 15),
+                // Story(),
+                // SizedBox(width: 13),
+                // Story(),
+                // SizedBox(width: 12),
+                // Story(),
+                // SizedBox(width: 12),
+                // Story(),
               ],
             ),
           ),
